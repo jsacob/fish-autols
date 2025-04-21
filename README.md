@@ -6,7 +6,9 @@ A fish plugin to list files after `cd` automatically.
 
 ## Install
 
-Using [Fisherman](https://github.com/fisherman/fisherman):
+[Fisherman](https://github.com/fisherman/fisherman):
+
+-Install Fisherman using `curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher`
 
 ```
 fisher install rstacruz/fish-autols
