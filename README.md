@@ -9,7 +9,7 @@ A fish plugin to list files after `cd` automatically.
 Using [Fisherman](https://github.com/fisherman/fisherman):
 
 ```
-fisher rstacruz/fish-autols
+fisher install rstacruz/fish-autols
 ```
 
 ## Thanks
